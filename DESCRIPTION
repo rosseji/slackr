@@ -30,8 +30,5 @@ Imports:
     ggplot2,
     utils,
     methods,
-    dplyr,
-    graphics,
-    grDevices,
-    texPreview
+    dplyr
 RoxygenNote: 6.0.1.9000
