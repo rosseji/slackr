@@ -27,7 +27,6 @@ Depends:
 Imports:
     httr (>= 0.4.0),
     jsonlite,
-    ggplot2,
     utils,
     methods,
     dplyr
